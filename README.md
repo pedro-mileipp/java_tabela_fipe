@@ -44,9 +44,6 @@
 
     <img width=50% src="./images/json.png" alt="JSON da requisição">
 
-
-
-- Para podermos exibir na aplicação as avaliações de todos os anos para esse modelo, será necessário trabalhar com as coleções e estruturas de repetição para poder exibir já todos as avaliações de todos os anos para o nosso usuário.
 - Será utilizada a biblioteca Jackson para a desserialização dos dados.
 
 
